@@ -1,4 +1,5 @@
 
-@import 'layout/header';
-@import 'layout/landing';
-@import 'layout/footer';
+@import '../layout/header';
+@import '../components/menu';
+@import '../layout/landing';
+@import '../layout/footer';
